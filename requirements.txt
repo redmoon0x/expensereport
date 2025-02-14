@@ -1,0 +1,6 @@
+
+pandas>=2.0.0
+streamlit>=1.27.0
+plotly>=5.13.0
+openpyxl>=3.1.0  # for Excel file support
+matplotlib>=3.7.0
